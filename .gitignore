@@ -275,3 +275,5 @@ evaluate_from_artifact.py
 get_metrics.py
 plots.py
 plots_sideBySide.py
+
+.ipynb_checkpoints/
